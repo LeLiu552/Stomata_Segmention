@@ -9,6 +9,6 @@ Copyright (c) 2018 Matterport, Inc.
 Function to automatically read the .CZI files in the given folder and transfer into PNG files
 
 ### model_setup.ipynb
-Model trainning and pixel area measurement
+Model trainning and pixel area measurement。。。
 
 
