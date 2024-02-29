@@ -29,7 +29,7 @@ for file in nd_files:
         print("Skipping unsupported format:", file, "-", e)
         continue
 
-    imp = ZProjector.run(imp, "max")
+    imp = ZProjector.run(imp, "avg")
     file_name = os.path.basename(file)
     output_path = os.path.join(output_directory, file_name.replace('.nd2', '.png'))
     IJ.saveAs(imp, "PNG", output_path)
