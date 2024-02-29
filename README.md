@@ -11,6 +11,9 @@ Code modified by Le Liu, Mask-RCNN written@ by Waleed Abdulla Copyright (c) 2018
 ### CZI2PNG.ipyn
 Function to automatically read the .CZI files in the given folder and transfer into PNG files
 
+### NDTOPNG.py
+Function to automatically read the .nd files in the given folder and perform 3D projection with maximum stacks
+
 ### Train_setup.ipynb
 This notebook provides detailed steps for training your model and validating its performance. 
 
