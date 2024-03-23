@@ -20,6 +20,9 @@ This notebook provides detailed steps for training your model and validating its
 ### Model_usage.ipynb
 The notebook provide the steps to apply the trained model to new images for inference and provide the options for display the images
 
+The whole pipeline
+q12
+
 ### Example of application of the model:
 ![image](https://github.com/LeLiu552/Stomata_Segmention/assets/73537116/9b3f437a-ed68-45af-b136-aa26c0821476)
 
