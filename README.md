@@ -20,4 +20,12 @@ This notebook provides detailed steps for training your model and validating its
 ### Model_usage.ipynb
 The notebook provide the steps to apply the trained model to new images for inference and provide the options for display the images
 
+### Example of application of the model:
+![image](https://github.com/LeLiu552/Stomata_Segmention/assets/73537116/9b3f437a-ed68-45af-b136-aa26c0821476)
+
+### There is NO significant difference in the area size of hand-traced and model-predicted Guard/Subsidiary cells 
+![image](https://github.com/LeLiu552/Stomata_Segmention/assets/73537116/c1db10cf-482e-455a-9199-d17d89a12a03)
+
+
+
 
