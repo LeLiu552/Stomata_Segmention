@@ -8,7 +8,7 @@ Train on confocal images of the leaf epidermis to autometically segment the subs
 
 Code modified by Le Liu, Mask-RCNN written@ by Waleed Abdulla Copyright (c) 2018 Matterport, Inc.
 
-### CZI2PNG.ipyn
+### CZI2PNG.ipynb
 Function to automatically read the .CZI files in the given folder and transfer into PNG files
 
 ### NDTOPNG.py
